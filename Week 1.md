@@ -1,3 +1,7 @@
+
+# MATLAB 첫주차
+
+```
 … → 다음 엔터에서도 입력가능.
 
 ; → 입력해도 출력물을 안보여줌
@@ -42,3 +46,4 @@ Rule for Variable name
 
 Complex number
 3+4i
+```
